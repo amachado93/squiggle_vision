@@ -1,4 +1,7 @@
 # squiggle_vision
+
+https://amachado93.github.io/squiggle_vision/
+
 a whole buncha squiggles on the screen
 
 wanted to learn how to create squiggles using p5.js.  
